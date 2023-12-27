@@ -44,3 +44,16 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.application {
+  margin-top: 30px;
+}
+
+h4 {
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 5px;
+}
